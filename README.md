@@ -11,7 +11,7 @@ http://hzbook.com
 
 《NLTK Essentials》
 
-《Practical Guide Python Data Science
+《Practical Guide Python Data Science》
 
 《Mastering NLP Python》
 
