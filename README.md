@@ -1,6 +1,6 @@
 # python
 用GtiHub设计python,
-将工作保存在GitHub.
+将工作和学习笔记保存在GitHub.
 
 《数据科学导论》Python Data Science Essentials
 http://hzbook.com
