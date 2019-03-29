@@ -5,13 +5,13 @@
 《数据科学导论》Python Data Science Essentials
 http://hzbook.com
 
-Python machine Learning Cookbook
+《Python machine Learning Cookbook》
 
-Python Data Analysis Application
+《Python Data Analysis Application》
 
-NLTK Essentials
+《NLTK Essentials》
 
-Practical Guide Python Data Science
+《Practical Guide Python Data Science
 
-Mastering NLP Python
+《Mastering NLP Python》
 
