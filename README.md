@@ -15,3 +15,5 @@ http://hzbook.com
 
 《Mastering NLP Python》
 
+《精通Python自然语言处理》Mastering Natural Language with Processing Python
+
