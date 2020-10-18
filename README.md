@@ -17,3 +17,9 @@ http://hzbook.com
 
 《精通Python自然语言处理》Mastering Natural Language with Processing Python
 
+《PyTorch机器学习 从入门到实战》
+
+
+
+
+
